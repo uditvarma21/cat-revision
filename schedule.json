@@ -1,0 +1,5914 @@
+{
+  "schedule": [
+    
+    {
+      "date": "2025-09-27",
+      "day_of_week": "Saturday",
+      "day_notes": "Test run day",
+      "daily_schedule": [
+        {
+          "start_time": "23:00",
+          "end_time": "24:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Percentages"
+            ]
+          }
+        }
+      ]
+    },
+    
+    
+    {
+
+      "date": "2025-09-28",
+      "day_of_week": "Sunday",
+      "day_notes": "First day of CAT prep",
+      "daily_schedule": [
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Percentages"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-29",
+              "day_7": "2025-10-05",
+              "day_30": "2025-10-28"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension",
+            "topic_group": [
+              "Reading Comprehension"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-29",
+              "day_7": "2025-10-05",
+              "day_30": "2025-10-28"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Tables"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-29",
+              "day_7": "2025-10-05",
+              "day_30": "2025-10-28"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Profit & Loss"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-29",
+              "day_7": "2025-10-05",
+              "day_30": "2025-10-28"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-09-28",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Percentages",
+              "Verbal Ability and Reading Comprehension - Reading Comprehension",
+              "Data Interpretation and Logical Reasoning - Tables",
+              "Quantitative Ability (QA) - Profit & Loss"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension",
+            "topic_group": [
+              "Para Summary"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-30",
+              "day_7": "2025-10-06",
+              "day_30": "2025-10-29"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Linear Arrangements"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-30",
+              "day_7": "2025-10-06",
+              "day_30": "2025-10-29"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Time and Work"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-30",
+              "day_7": "2025-10-06",
+              "day_30": "2025-10-29"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension",
+            "topic_group": [
+              "Para Completion"
+            ],
+            "recall_dates": {
+              "day_1": "2025-09-30",
+              "day_7": "2025-10-06",
+              "day_30": "2025-10-29"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-09-29",
+            "topics_to_recall": [
+              "Verbal Ability and Reading Comprehension - Para Summary",
+              "Data Interpretation and Logical Reasoning - Linear Arrangements",
+              "Quantitative Ability (QA) - Time and Work",
+              "Verbal Ability and Reading Comprehension - Para Completion"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Cubes"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-01",
+              "day_7": "2025-10-07",
+              "day_30": "2025-10-30"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Time, Speed, and Distance"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-01",
+              "day_7": "2025-10-07",
+              "day_30": "2025-10-30"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension",
+            "topic_group": [
+              "Para Jumbles"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-01",
+              "day_7": "2025-10-07",
+              "day_30": "2025-10-30"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Selection Network"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-01",
+              "day_7": "2025-10-07",
+              "day_30": "2025-10-30"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-09-30",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Cubes",
+              "Quantitative Ability (QA) - Time, Speed, and Distance",
+              "Verbal Ability and Reading Comprehension - Para Jumbles",
+              "Data Interpretation and Logical Reasoning - Selection Network"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Ratios and Proportions"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-02",
+              "day_7": "2025-10-08",
+              "day_30": "2025-10-31"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension",
+            "topic_group": [
+              "Odd One Out"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-02",
+              "day_7": "2025-10-08",
+              "day_30": "2025-10-31"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Flow Diagrams"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-02",
+              "day_7": "2025-10-08",
+              "day_30": "2025-10-31"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Mixtures and Allegations"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-02",
+              "day_7": "2025-10-08",
+              "day_30": "2025-10-31"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Verbal Ability and Reading Comprehension"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-02",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-01",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Ratios and Proportions",
+              "Verbal Ability and Reading Comprehension - Odd One Out",
+              "Data Interpretation and Logical Reasoning - Flow Diagrams",
+              "Quantitative Ability (QA) - Mixtures and Allegations"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Distribution"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-03",
+              "day_7": "2025-10-09",
+              "day_30": "2025-11-01"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Simple and Compound Interest"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-03",
+              "day_7": "2025-10-09",
+              "day_30": "2025-11-01"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Pie Charts"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-03",
+              "day_7": "2025-10-09",
+              "day_30": "2025-11-01"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Averages"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-03",
+              "day_7": "2025-10-09",
+              "day_30": "2025-11-01"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-03",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-02",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Distribution",
+              "Quantitative Ability (QA) - Simple and Compound Interest",
+              "Data Interpretation and Logical Reasoning - Pie Charts",
+              "Quantitative Ability (QA) - Averages"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Line & Bar Graphs"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-04",
+              "day_7": "2025-10-10",
+              "day_30": "2025-11-02"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Linear Equations"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-04",
+              "day_7": "2025-10-10",
+              "day_30": "2025-11-02"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Quant Based DI"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-04",
+              "day_7": "2025-10-10",
+              "day_30": "2025-11-02"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Quadratic Equations"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-04",
+              "day_7": "2025-10-10",
+              "day_30": "2025-11-02"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-04",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-03",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Line & Bar Graphs",
+              "Quantitative Ability (QA) - Linear Equations",
+              "Data Interpretation and Logical Reasoning - Quant Based DI",
+              "Quantitative Ability (QA) - Quadratic Equations"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Circular Arrangements"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-05",
+              "day_7": "2025-10-11",
+              "day_30": "2025-11-03"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Inequalities"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-05",
+              "day_7": "2025-10-11",
+              "day_30": "2025-11-03"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Venn Diagrams"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-05",
+              "day_7": "2025-10-11",
+              "day_30": "2025-11-03"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Functions"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-05",
+              "day_7": "2025-10-11",
+              "day_30": "2025-11-03"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-05",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-04",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Circular Arrangements",
+              "Quantitative Ability (QA) - Inequalities",
+              "Data Interpretation and Logical Reasoning - Venn Diagrams",
+              "Quantitative Ability (QA) - Functions"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-09-28",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Percentages",
+              "Verbal Ability and Reading Comprehension - Reading Comprehension",
+              "Data Interpretation and Logical Reasoning - Tables",
+              "Quantitative Ability (QA) - Profit & Loss"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Games & Tournaments"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-06",
+              "day_7": "2025-10-12",
+              "day_30": "2025-11-04"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Progressions"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-06",
+              "day_7": "2025-10-12",
+              "day_30": "2025-11-04"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Binary Logics"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-06",
+              "day_7": "2025-10-12",
+              "day_30": "2025-11-04"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Logarithms"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-06",
+              "day_7": "2025-10-12",
+              "day_30": "2025-11-04"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-06",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-05",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Games & Tournaments",
+              "Quantitative Ability (QA) - Progressions",
+              "Data Interpretation and Logical Reasoning - Binary Logics",
+              "Quantitative Ability (QA) - Logarithms"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-09-29",
+            "topics_to_recall": [
+              "Verbal Ability and Reading Comprehension - Para Summary",
+              "Data Interpretation and Logical Reasoning - Linear Arrangements",
+              "Quantitative Ability (QA) - Time and Work",
+              "Verbal Ability and Reading Comprehension - Para Completion"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning",
+            "topic_group": [
+              "Routes and Networks"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-07",
+              "day_7": "2025-10-13",
+              "day_30": "2025-11-05"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Graphs"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-07",
+              "day_7": "2025-10-13",
+              "day_30": "2025-11-05"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Surds and indices"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-07",
+              "day_7": "2025-10-13",
+              "day_30": "2025-11-05"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Divisibility Rules"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-07",
+              "day_7": "2025-10-13",
+              "day_30": "2025-11-05"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Data Interpretation and Logical Reasoning"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-07",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-06",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Routes and Networks",
+              "Quantitative Ability (QA) - Graphs",
+              "Quantitative Ability (QA) - Surds and indices",
+              "Quantitative Ability (QA) - Divisibility Rules"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-09-30",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Cubes",
+              "Quantitative Ability (QA) - Time, Speed, and Distance",
+              "Verbal Ability and Reading Comprehension - Para Jumbles",
+              "Data Interpretation and Logical Reasoning - Selection Network"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Factors and Multiples"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-08",
+              "day_7": "2025-10-14",
+              "day_30": "2025-11-06"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Properties of Integers"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-08",
+              "day_7": "2025-10-14",
+              "day_30": "2025-11-06"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Base Systems"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-08",
+              "day_7": "2025-10-14",
+              "day_30": "2025-11-06"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Triangles"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-08",
+              "day_7": "2025-10-14",
+              "day_30": "2025-11-06"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-07",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Factors and Multiples",
+              "Quantitative Ability (QA) - Properties of Integers",
+              "Quantitative Ability (QA) - Base Systems",
+              "Quantitative Ability (QA) - Triangles"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-01",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Ratios and Proportions",
+              "Verbal Ability and Reading Comprehension - Odd One Out",
+              "Data Interpretation and Logical Reasoning - Flow Diagrams",
+              "Quantitative Ability (QA) - Mixtures and Allegations"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Circles"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-09",
+              "day_7": "2025-10-15",
+              "day_30": "2025-11-07"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Quadrilaterals"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-09",
+              "day_7": "2025-10-15",
+              "day_30": "2025-11-07"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Polygons"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-09",
+              "day_7": "2025-10-15",
+              "day_30": "2025-11-07"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Coordinate Geometry"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-09",
+              "day_7": "2025-10-15",
+              "day_30": "2025-11-07"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-09",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-08",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Circles",
+              "Quantitative Ability (QA) - Quadrilaterals",
+              "Quantitative Ability (QA) - Polygons",
+              "Quantitative Ability (QA) - Coordinate Geometry"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-02",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Distribution",
+              "Quantitative Ability (QA) - Simple and Compound Interest",
+              "Data Interpretation and Logical Reasoning - Pie Charts",
+              "Quantitative Ability (QA) - Averages"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Mensuration"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-10",
+              "day_7": "2025-10-16",
+              "day_30": "2025-11-08"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Permutations and Combinations"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-10",
+              "day_7": "2025-10-16",
+              "day_30": "2025-11-08"
+            }
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Probability"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-10",
+              "day_7": "2025-10-16",
+              "day_30": "2025-11-08"
+            }
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Set Theory"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-10",
+              "day_7": "2025-10-16",
+              "day_30": "2025-11-08"
+            }
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-10",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-09",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Mensuration",
+              "Quantitative Ability (QA) - Permutations and Combinations",
+              "Quantitative Ability (QA) - Probability",
+              "Quantitative Ability (QA) - Set Theory"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-03",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Line & Bar Graphs",
+              "Quantitative Ability (QA) - Linear Equations",
+              "Data Interpretation and Logical Reasoning - Quant Based DI",
+              "Quantitative Ability (QA) - Quadratic Equations"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "Quantitative Ability (QA)",
+            "topic_group": [
+              "Binomial Theorem"
+            ],
+            "recall_dates": {
+              "day_1": "2025-10-11",
+              "day_7": "2025-10-17",
+              "day_30": "2025-11-09"
+            }
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "Quantitative Ability (QA)"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-11",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "2025-10-10",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Binomial Theorem"
+            ]
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-04",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Circular Arrangements",
+              "Quantitative Ability (QA) - Inequalities",
+              "Data Interpretation and Logical Reasoning - Venn Diagrams",
+              "Quantitative Ability (QA) - Functions"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-12",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-05",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Games & Tournaments",
+              "Quantitative Ability (QA) - Progressions",
+              "Data Interpretation and Logical Reasoning - Binary Logics",
+              "Quantitative Ability (QA) - Logarithms"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-13",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-06",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Routes and Networks",
+              "Quantitative Ability (QA) - Graphs",
+              "Quantitative Ability (QA) - Surds and indices",
+              "Quantitative Ability (QA) - Divisibility Rules"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-14",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-07",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Factors and Multiples",
+              "Quantitative Ability (QA) - Properties of Integers",
+              "Quantitative Ability (QA) - Base Systems",
+              "Quantitative Ability (QA) - Triangles"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-15",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-08",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Circles",
+              "Quantitative Ability (QA) - Quadrilaterals",
+              "Quantitative Ability (QA) - Polygons",
+              "Quantitative Ability (QA) - Coordinate Geometry"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-09",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Mensuration",
+              "Quantitative Ability (QA) - Permutations and Combinations",
+              "Quantitative Ability (QA) - Probability",
+              "Quantitative Ability (QA) - Set Theory"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-17",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "2025-10-10",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Binomial Theorem"
+            ]
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-18",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-19",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-20",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-23",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-24",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-25",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-26",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-27",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-09-28",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Percentages",
+              "Verbal Ability and Reading Comprehension - Reading Comprehension",
+              "Data Interpretation and Logical Reasoning - Tables",
+              "Quantitative Ability (QA) - Profit & Loss"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-29",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-09-29",
+            "topics_to_recall": [
+              "Verbal Ability and Reading Comprehension - Para Summary",
+              "Data Interpretation and Logical Reasoning - Linear Arrangements",
+              "Quantitative Ability (QA) - Time and Work",
+              "Verbal Ability and Reading Comprehension - Para Completion"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-30",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-09-30",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Cubes",
+              "Quantitative Ability (QA) - Time, Speed, and Distance",
+              "Verbal Ability and Reading Comprehension - Para Jumbles",
+              "Data Interpretation and Logical Reasoning - Selection Network"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-10-31",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-01",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Ratios and Proportions",
+              "Verbal Ability and Reading Comprehension - Odd One Out",
+              "Data Interpretation and Logical Reasoning - Flow Diagrams",
+              "Quantitative Ability (QA) - Mixtures and Allegations"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-02",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Distribution",
+              "Quantitative Ability (QA) - Simple and Compound Interest",
+              "Data Interpretation and Logical Reasoning - Pie Charts",
+              "Quantitative Ability (QA) - Averages"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-02",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-03",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Line & Bar Graphs",
+              "Quantitative Ability (QA) - Linear Equations",
+              "Data Interpretation and Logical Reasoning - Quant Based DI",
+              "Quantitative Ability (QA) - Quadratic Equations"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-03",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-04",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Circular Arrangements",
+              "Quantitative Ability (QA) - Inequalities",
+              "Data Interpretation and Logical Reasoning - Venn Diagrams",
+              "Quantitative Ability (QA) - Functions"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-05",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Games & Tournaments",
+              "Quantitative Ability (QA) - Progressions",
+              "Data Interpretation and Logical Reasoning - Binary Logics",
+              "Quantitative Ability (QA) - Logarithms"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-06",
+            "topics_to_recall": [
+              "Data Interpretation and Logical Reasoning - Routes and Networks",
+              "Quantitative Ability (QA) - Graphs",
+              "Quantitative Ability (QA) - Surds and indices",
+              "Quantitative Ability (QA) - Divisibility Rules"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-07",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Factors and Multiples",
+              "Quantitative Ability (QA) - Properties of Integers",
+              "Quantitative Ability (QA) - Base Systems",
+              "Quantitative Ability (QA) - Triangles"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-08",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Circles",
+              "Quantitative Ability (QA) - Quadrilaterals",
+              "Quantitative Ability (QA) - Polygons",
+              "Quantitative Ability (QA) - Coordinate Geometry"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-09",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Mensuration",
+              "Quantitative Ability (QA) - Permutations and Combinations",
+              "Quantitative Ability (QA) - Probability",
+              "Quantitative Ability (QA) - Set Theory"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-09",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "2025-10-10",
+            "topics_to_recall": [
+              "Quantitative Ability (QA) - Binomial Theorem"
+            ]
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-10",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-11",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-12",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-13",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "day_of_week": "Friday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-15",
+      "day_of_week": "Saturday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "day_of_week": "Sunday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "day_of_week": "Monday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-18",
+      "day_of_week": "Tuesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "day_of_week": "Wednesday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2025-11-20",
+      "day_of_week": "Thursday",
+      "day_notes": "",
+      "daily_schedule": [
+        {
+          "start_time": "06:00",
+          "end_time": "07:00",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "DAILY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "07:10",
+          "end_time": "08:10",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "WEEKLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "08:30",
+          "end_time": "10:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "11:30",
+          "end_time": "13:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "16:50",
+          "end_time": "18:50",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "20:30",
+          "end_time": "21:30",
+          "activity": "STUDY_BLOCK",
+          "details": {
+            "subject": "N/A",
+            "topic_group": [
+              "No topic available"
+            ],
+            "recall_dates": {}
+          }
+        },
+        {
+          "start_time": "15:40",
+          "end_time": "16:40",
+          "activity": "REVISION",
+          "details": {
+            "recall_type": "MONTHLY",
+            "source_date": "N/A",
+            "topics_to_recall": []
+          }
+        },
+        {
+          "start_time": "14:30",
+          "end_time": "15:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "19:00",
+          "end_time": "20:00",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        },
+        {
+          "start_time": "21:30",
+          "end_time": "22:30",
+          "activity": "ANSWER_WRITING",
+          "details": {
+            "subject": "N/A"
+          }
+        }
+      ]
+    }
+  ]
+}

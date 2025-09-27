@@ -1,0 +1,63 @@
+{
+  "Quantitative Ability (QA)": {
+    "topics": [
+      "Percentages",
+      "Profit & Loss",
+      "Time and Work",
+      "Time, Speed, and Distance",
+      "Ratios and Proportions",
+      "Mixtures and Allegations",
+      "Simple and Compound Interest",
+      "Averages",
+      "Linear Equations",
+      "Quadratic Equations",
+      "Inequalities",
+      "Functions",
+      "Progressions",
+      "Logarithms",
+      "Graphs",
+      "Surds and indices",
+      "Divisibility Rules",
+      "Factors and Multiples",
+      "Properties of Integers",
+      "Base Systems",
+      "Triangles",
+      "Circles",
+      "Quadrilaterals",
+      "Polygons",
+      "Coordinate Geometry",
+      "Mensuration",
+      "Permutations and Combinations",
+      "Probability",
+      "Set Theory",
+      "Binomial Theorem"
+    ]
+  },
+  "Verbal Ability and Reading Comprehension": {
+    "topics": [
+      "Reading Comprehension",
+      "Para Summary",
+      "Para Completion",
+      "Para Jumbles",
+      "Odd One Out"
+    ]
+  },
+  "Data Interpretation and Logical Reasoning": {
+    "topics": [
+      "Tables",
+      "Linear Arrangements",
+      "Cubes",
+      "Selection Network",
+      "Flow Diagrams",
+      "Distribution",
+      "Pie Charts",
+      "Line & Bar Graphs",
+      "Quant Based DI",
+      "Circular Arrangements",
+      "Venn Diagrams",
+      "Games & Tournaments",
+      "Binary Logics",
+      "Routes and Networks"
+    ]
+  }
+}

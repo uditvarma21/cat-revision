@@ -1,0 +1,197 @@
+/* Basic layout: left and right sidebars, main center content */
+:root {
+  --bg: #0f172a;
+  --panel: #111827;
+  --muted: #1f2937;
+  --border: #374151;
+  --text: #e5e7eb;
+  --text-dim: #9ca3af;
+  --accent: #60a5fa;
+}
+
+#sessions li, #targets li, #revisions li {
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 6px;
+  background: #0b0f1a;
+}
+
+#day-schedule li, #subtopics li {
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 6px;
+  background: #0b0f1a;
+}
+
+/* Subtopic progress indicators */
+.subtopic-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.subtopic-text {
+  flex: 1;
+}
+
+.progress-mark {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-left: 8px;
+}
+
+.studied-today {
+  background: #064e3b !important;
+  border-color: #10b981 !important;
+}
+
+.studied-today .progress-mark {
+  color: #10b981;
+  font-weight: bold;
+}
+
+.studied-before {
+  background: #1e3a8a !important;
+  border-color: #3b82f6 !important;
+}
+
+.studied-before .progress-mark {
+  color: #3b82f6;
+}
+
+.unread {
+  background: #7f1d1d !important;
+  border-color: #dc2626 !important;
+}
+
+.unread .progress-mark {
+  color: #dc2626;
+  font-weight: bold;
+}
+
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 280px 1fr 320px;
+  grid-template-rows: 100vh;
+}
+
+aside {
+  background: var(--panel);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+
+#left-sidebar { border-left: none; }
+#right-sidebar { border-right: none; }
+
+.section-header {
+  padding: 12px 14px;
+  background: var(--muted);
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+}
+
+.topic-btn {
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  color: var(--text);
+  border: 1px solid transparent;
+  padding: 6px 8px;
+  border-radius: 6px;
+}
+.topic-btn:hover { background: #0b1220; border-color: var(--border); }
+.topic-btn.active { background: #12315a; border-color: #1f6fd1; }
+
+.scroll { overflow: auto; padding: 12px; }
+
+#main-content {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+}
+
+#questions-panel {
+  border-bottom: 1px solid var(--border);
+  display: grid;
+  grid-template-rows: auto auto auto 1fr; /* header, targets, section header, list (scroll) */
+  min-height: 0; /* allow child to shrink for scrolling */
+}
+
+#questions-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  background: #0b1220;
+}
+
+#breadcrumb { color: var(--text-dim); font-size: 12px; margin-bottom: 4px; }
+#topic-title { font-size: 18px; font-weight: 700; }
+
+#questions-list { list-style: none; margin: 0; padding: 12px; overflow-y: auto; min-height: 0; }
+#questions-list li { padding: 10px; border: 1px solid var(--border); border-radius: 8px; margin-bottom: 8px; background: #0b0f1a; }
+
+button {
+  background: var(--accent);
+  color: #001025;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:disabled { opacity: 0.6; cursor: default; }
+
+#chat-panel { display: grid; grid-template-rows: 1fr auto auto; height: 100%; }
+#chat-messages { padding: 12px; }
+
+.message { margin: 8px 0; max-width: 80%; padding: 10px 12px; border-radius: 10px; }
+.message.user { background: #12315a; margin-left: auto; }
+.message.assistant { background: #1a293a; margin-right: auto; }
+
+#chat-input { display: flex; gap: 8px; padding: 10px; border-top: 1px solid var(--border); background: #0b1220; }
+#chat-text { flex: 1; padding: 10px 12px; border-radius: 6px; border: 1px solid var(--border); background: #0b0f1a; color: var(--text); }
+
+.error { color: #fca5a5; padding: 6px 12px; font-size: 12px; }
+
+/* Break overlay */
+#break-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+.break-inner {
+  text-align: center;
+}
+.break-title {
+  font-size: 28px;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+#break-countdown {
+  font-size: 72px;
+  font-weight: 800;
+  color: var(--accent);
+}
+.break-sub {
+  margin-top: 16px;
+  color: var(--text-dim);
+}

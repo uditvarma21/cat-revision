@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Study Planner</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- Left Sidebar -->
+    <aside id="left-sidebar">
+      <div class="section-header">Now</div>
+      <div class="scroll">
+        <div id="now-details" style="margin-bottom:12px;"></div>
+        <div id="timerDisplay">00:00</div>
+        <div id="phase">Idle</div>
+      </div>
+
+      <div class="section-header">Subtopics</div>
+      <div class="scroll">
+        <ul id="subtopics"></ul>
+      </div>
+    </aside>
+
+    <!-- Main Center -->
+    <div id="main-content">
+      <div id="questions-panel">
+        <div id="questions-header">
+          <div>
+            <div id="breadcrumb">Today</div>
+            <div id="topic-title"></div>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center;">
+            <button id="regenQuestions">Generate New Questions</button>
+          </div>
+        </div>
+        <ul id="targets"></ul>
+        <div class="section-header">Questions</div>
+        <ul id="questions-list"></ul>
+      </div>
+
+      <div id="chat-panel">
+        <div id="chat-messages">
+          <h3>Revisions</h3>
+          <ul id="revisions"></ul>
+        </div>
+        <div id="progress"></div>
+        <div id="chat-input">
+          <input id="chat-text" placeholder="Ask CAT mentor... or type: extra: <focus> for advanced questions" />
+          <button id="chat-send">Send</button>
+        </div>
+        <div id="chat-error" class="error"></div>
+      </div>
+    </div>
+
+    <!-- Right Sidebar -->
+    <aside id="right-sidebar">
+      <div class="section-header">Today's Schedule</div>
+      <div class="scroll">
+        <ul id="day-schedule"></ul>
+      </div>
+      <div class="section-header">Attendance</div>
+      <div class="scroll">
+        <label style="display:flex; gap:8px; align-items:center;">
+          <input type="checkbox" id="mark-absent" /> Mark me absent today (push plan by 1 day)
+        </label>
+        <div id="absent-note" class="muted" style="margin-top:6px; font-size:12px; color: var(--text-dim);"></div>
+      </div>
+    </aside>
+  </div>
+
+  <!-- Break Overlay -->
+  <div id="break-overlay" hidden>
+    <div class="break-inner">
+      <div class="break-title">Break</div>
+      <div id="break-countdown">10:00</div>
+      <div class="break-sub">Stand up, stretch, hydrate. Screen unlocks when timer ends.</div>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
