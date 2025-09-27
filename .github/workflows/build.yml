@@ -1,25 +1,42 @@
-name: Cat Study App
+name: Build Electron App
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: 18
 
-      - run: npm install
-      - run: npm run make
+      - name: Install dependencies
+        run: npm install
 
-      - name: Upload Build Artifacts
+      - name: Add build script if missing
+        run: |
+          if (-Not (Select-String '"build":' package.json)) {
+            (Get-Content package.json) -replace '"scripts": {', '"scripts": {`n    "build": "electron-builder",'
+            | Set-Content package.json
+          }
+
+      - name: Install electron-builder
+        run: npm install --save-dev electron-builder
+
+      - name: Build app
+        run: npm run build
+
+      - name: Upload exe artifact
         uses: actions/upload-artifact@v4
         with:
-          name: MyApp-Windows
-          path: dist/
+          name: electron-app
+          path: dist/*.exe
