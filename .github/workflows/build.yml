@@ -1,15 +1,13 @@
-name: Build Electron App
+name: CAT prep App
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
-  build:
+  build-windows:
     runs-on: windows-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,26 +15,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+        shell: pwsh
 
-      - name: Add build script if missing
-        run: |
-          if (-Not (Select-String '"build":' package.json)) {
-            (Get-Content package.json) -replace '"scripts": {', '"scripts": {`n    "build": "electron-builder",'
-            | Set-Content package.json
-          }
-
-      - name: Install electron-builder
-        run: npm install --save-dev electron-builder
-
-      - name: Build app
-        run: npm run build
+      - name: Build Windows installer (.exe)
+        run: npm run dist:win
+        shell: pwsh
 
       - name: Upload exe artifact
         uses: actions/upload-artifact@v4
         with:
           name: electron-app
-          path: dist/*.exe
+          path: |
+            dist/*.exe
+            dist/**/*.exe
